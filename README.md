@@ -1,6 +1,6 @@
 Hi everyone. I am a Chemical Engineering graduate looking to get back into the thick of coding oncemore.
 
-- Classically trained in Java and attempting to self-teach Python
+- Classically trained in Java and proficient in Python
 
 - Looking to the field of Data Science for interesting and inspiring ideas
 
